@@ -28,17 +28,17 @@ multiple developers can claim the same idea, leading to different interpretation
 ## running locally
 wanna brew some ideas yourself? here’s how to run concept cauldron on your machine: <br>
 
-1. clone the repo:
-    ```
-    git clone https://github.com/yourusername/concept-cauldron.git
-    cd concept-cauldron
-    ```
-2. install dependencies:
-    ```
-    npm install
-    ```
-3. start the development server:
-    ```
-    npm run dev
-    ```
-4. open http://localhost:3000 and start tossing in ideas!
+clone the repo:
+ ```
+git clone https://github.com/yourusername/concept-cauldron.git
+cd concept-cauldron
+```
+install dependencies:
+```
+npm install
+```
+start the development server:
+ ```
+ npm run dev
+```
+open http://localhost:3000 and start tossing in ideas!
