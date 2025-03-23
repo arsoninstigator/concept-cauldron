@@ -14,6 +14,6 @@ multiple developers can claim the same idea, leading to different interpretation
 ## features
 📌 filter by category – need a game idea? a hardware prototype? we got you <br>
 📌 claim system – see what other devs are working on <br>
-📌 idea details – optional fields let users describe what they're looking for in detail and explain exactly what they mean
+📌 idea details – optional fields let users describe what they're looking for in detail and say exactly what they mean
 
 **need to add something unique to the projects section of your portfolio? don't create another calculator app or tic tac toe, build projects with actual purpose and real-world impact by creating something that's useful, something that others actively want you to bring to life!**
