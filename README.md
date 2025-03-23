@@ -17,3 +17,28 @@ multiple developers can claim the same idea, leading to different interpretation
 📌 idea details – optional fields let users describe what they're looking for in detail and say exactly what they mean
 
 **need to add something unique to the projects section of your portfolio? don't create another calculator app or tic tac toe, build projects with actual purpose and real-world impact by creating something that's useful, something that others actively want you to bring to life!**
+
+## tech stack
+📌 frontend: react + tailwind <br>
+📌 backend: firebase <br>
+📌 database: supabase <br>
+📌 auth: firebase auth <br>
+📌 deployment: vercel
+
+## running locally
+wanna brew some ideas yourself? here’s how to run concept cauldron on your machine: <br>
+
+clone the repo:
+```
+git clone https://github.com/yourusername/concept-cauldron.git
+cd concept-cauldron
+```
+install dependencies:
+```
+npm install
+```
+start the development server:
+```
+npm run dev
+```
+open http://localhost:3000 and start tossing in ideas!
